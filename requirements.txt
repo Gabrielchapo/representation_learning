@@ -1,0 +1,8 @@
+torchio
+torch
+pandas
+numpy
+pydicom
+pydicom_seg
+SimpleITK
+dicom2nifti
